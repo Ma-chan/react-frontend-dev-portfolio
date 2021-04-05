@@ -1,0 +1,193 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Ayaka belong to the institute of information security from Otsuka laboratory.  :) I'm interested in React.js and Vue.js.  What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Products",
+        "skills": "Skills",
+        "experience": "History"
+      }
+    },
+    "projects": [
+      {
+        "title": "React",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg",
+          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-html-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JS"
+          }
+        ]
+      },
+      {
+        "title": "Java",
+        "startDate": "2018",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg"
+        ],
+        "url": "https://github.com/Ma-chan",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Team Leader",
+        "startDate": "2016",
+        "description": "When I was in my second year of university, a group of six students held an exhibition of pictures they had drawn using programming. As the leader of the group, I was responsible for everything from team building to shift coordination on the day of the event.",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E6%B4%BB%E5%8B%95.JPG",
+          "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
+          
+        ],
+        "url": "https://github.com/Ma-chan",
+        "technologies": [
+          {
+            "class": "devicon-basic-original",
+            "name": "basic"
+          }
+        ]
+      },
+      {
+        "title": "Frontend",
+        "startDate": "2016",
+        "description": "When I was in my second year of university, a group of six students held an exhibition of pictures they had drawn using programming. As the leader of the group, I was responsible for everything from team building to shift coordination on the day of the event.",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E6%B4%BB%E5%8B%95.JPG",
+          "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
+          
+        ],
+        "url": "https://github.com/Ma-chan",
+        "technologies": [
+          {
+            "class": "devicon-html-original",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css-original",
+            "name": "CSS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hobby",
+        "title": "Front-End Development",
+        "years": "2.2021 - present",
+        "mainTech": [
+          "React 8/9/10"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "React.js",
+          "R"
+        ]
+      },
+      {
+        "company": "SCIS(Simposium of Cryptography and Information Security)",
+        "title": "Adoption of paper",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "SSS(Summer Symposium in Sasara)",
+        "title": "Adoption of paper",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Angular 5/6"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "SSS(Summer Symposium in Sasara)",
+        "title": "Adoption of paper",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Angular 5/6"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "SSS(Summer Symposium in Sasara)",
+        "title": "Adoption of paper",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Angular 5/6"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "SSS(Summer Symposium in Sasara)",
+        "title": "Adoption of paper",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Angular 5/6"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }

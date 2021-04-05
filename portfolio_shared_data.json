@@ -1,0 +1,122 @@
+{
+    "basic_info": {
+      "name": "Ayama Matsumoto",
+      
+      "titles": [ "Front-end Developer", "Student Engineer", "Back-end Developer", "Master of Security Student","B.S. in Mathematics" ],
+      "social": [
+        {
+        "image": "https://pbs.twimg.com/media/CtW5c88UEAAWvez?format=jpg&name=900x900"},
+        {
+          "name": "github",
+          "url": "https://github.com/Ma-chan",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/mattya007/",
+          "class": "fab fa-instagram"
+        }
+      ]
+      
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "80"
+        },
+        
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap4",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "C",
+          "class": "devicon-c-plain",
+          "level": "65"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": "60"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "Debian",
+          "class": "devicon-debian-plain",
+          "level": "60"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "60"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain",
+          "level": "60"
+        },
+        {
+          "name": "linux",
+          "class": "devicon-linux-plain",
+          "level": "60"
+        },
+        {
+          "name": "nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+        },
+        {
+          "name": "R",
+          "class": "devicon-r-plain",
+          "level": "60"
+        },
+        {
+          "name": "yarn",
+          "class": "devicon-yarn-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
