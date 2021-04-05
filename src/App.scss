@@ -1,5 +1,7 @@
-@import '../src/scss/themes/theme-dark.scss';
-@import '../src/scss/themes/theme-light.scss';
+@import '../src/scss/themes/theme-dark';
+@import '../src/scss/themes/theme-light';
+@import '../src/scss/dark-slider';
+@import '../src/scss/light-slider';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
 
 html {
@@ -20,8 +22,9 @@ html {
 }
 
 .title-styles {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	font-size: 250%;
+	font-weight: 500;
 }
 
 .header-icon {
@@ -31,20 +34,25 @@ html {
 
 header {
 	position: relative;
-	height: 520px;
+	height: 600px;
 	min-height: 450px;
 	width: 100%;
 	background-size: cover;
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image:url('https://www.clipstudio.net/wp-content/uploads/2018/05/1447_1.jpg'),
+    linear-gradient(349deg, #ffe300, #ff7e00, #f04100, #d100ff, #3300ff);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-blend-mode: hard-light;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	padding-top: 150px;
 	padding-bottom: 0;
+	
 }
 
 .language-icon {
@@ -58,9 +66,9 @@ header {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #afd3ff;
 	border-radius: 0 0 5px 5px;
-	background-color: #696969;
+	background-color: #afd3ff;
 	color: white;
 }
 
@@ -74,7 +82,7 @@ header {
 
 .language {
 	font-size: 25px;
-	background-color: #e9d5a1;
+	background-color: #b5dcff;
 	padding-bottom: 10px;
 	padding-top: 80px;
 }
@@ -83,18 +91,20 @@ header h1 {
 	font-size: 400%;
 	text-align: center;
 	font-weight: 600 !important;
-	color: #353239;
+	color: black;
 	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #b5dcff;
+	width:100%;
+	height:auto;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #b5dcff;
 	height: 25px;
 }
 
@@ -119,11 +129,14 @@ header h1 {
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
+	width: 100%;
+	height: auto;
 }
 
 .foto img {
 	display: block;
 	width: 100%;
+	height: auto;
 }
 
 .foto div {
@@ -206,7 +219,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #b5dcff;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -219,7 +232,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #b5dcff;
 }
 
 .experience-icon {
@@ -233,8 +246,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #AE944F !important;
-	color: white;
+	background-color: #b5dcff !important;
+	color: black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -244,8 +257,8 @@ header h1 {
 	text-align: left !important;
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
-	background-color: #f9f5e9 !important;
-	color: black;
+	background-color: #6abfff !important;
+	color:black;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -303,7 +316,7 @@ header h1 {
 	top: 0;
 	margin: 0;
 	padding-right: 24px;
-	background: #313131;
+	background: #9c9c9c;
 	display: inline-block;
 	height: 42px;
 	line-height: 42px;
@@ -341,7 +354,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #b5dcff;
 	padding-bottom: 5%;
 }
 
