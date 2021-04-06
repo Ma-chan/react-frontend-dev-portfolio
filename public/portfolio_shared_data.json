@@ -5,7 +5,7 @@
       "titles": [ "Front-end Developer", "Student Engineer", "Back-end Developer", "Master of Security Student","B.S. in Mathematics" ],
       "social": [
         {
-        "image": "https://pbs.twimg.com/media/CtW5c88UEAAWvez?format=jpg&name=900x900"},
+        "image": "https://pbs.twimg.com/media/CtW5c8-UkAANQA-?format=jpg&name=medium"},
         {
           "name": "github",
           "url": "https://github.com/Ma-chan",
@@ -40,6 +40,11 @@
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "70"
         },
         {
