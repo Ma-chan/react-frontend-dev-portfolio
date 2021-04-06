@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-frontend-dev-portfolio.git/static/css/main.705130cb.chunk.css",
-    "main.js": "/react-frontend-dev-portfolio.git/static/js/main.7bb154d4.chunk.js",
-    "main.js.map": "/react-frontend-dev-portfolio.git/static/js/main.7bb154d4.chunk.js.map",
-    "runtime-main.js": "/react-frontend-dev-portfolio.git/static/js/runtime-main.999685f4.js",
-    "runtime-main.js.map": "/react-frontend-dev-portfolio.git/static/js/runtime-main.999685f4.js.map",
-    "static/css/2.1090d99e.chunk.css": "/react-frontend-dev-portfolio.git/static/css/2.1090d99e.chunk.css",
-    "static/js/2.4e41f34b.chunk.js": "/react-frontend-dev-portfolio.git/static/js/2.4e41f34b.chunk.js",
-    "static/js/2.4e41f34b.chunk.js.map": "/react-frontend-dev-portfolio.git/static/js/2.4e41f34b.chunk.js.map",
-    "index.html": "/react-frontend-dev-portfolio.git/index.html",
-    "static/css/2.1090d99e.chunk.css.map": "/react-frontend-dev-portfolio.git/static/css/2.1090d99e.chunk.css.map",
-    "static/css/main.705130cb.chunk.css.map": "/react-frontend-dev-portfolio.git/static/css/main.705130cb.chunk.css.map",
-    "static/js/2.4e41f34b.chunk.js.LICENSE.txt": "/react-frontend-dev-portfolio.git/static/js/2.4e41f34b.chunk.js.LICENSE.txt",
-    "static/media/devicon.min.css": "/react-frontend-dev-portfolio.git/static/media/devicon.f2d294fd.eot"
+    "main.css": "/static/css/main.dcbc416b.chunk.css",
+    "main.js": "/static/js/main.87ed51bb.chunk.js",
+    "main.js.map": "/static/js/main.87ed51bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17489989.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17489989.js.map",
+    "static/css/2.998dacbd.chunk.css": "/static/css/2.998dacbd.chunk.css",
+    "static/js/2.4e41f34b.chunk.js": "/static/js/2.4e41f34b.chunk.js",
+    "static/js/2.4e41f34b.chunk.js.map": "/static/js/2.4e41f34b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.998dacbd.chunk.css.map": "/static/css/2.998dacbd.chunk.css.map",
+    "static/css/main.dcbc416b.chunk.css.map": "/static/css/main.dcbc416b.chunk.css.map",
+    "static/js/2.4e41f34b.chunk.js.LICENSE.txt": "/static/js/2.4e41f34b.chunk.js.LICENSE.txt",
+    "static/media/devicon.min.css": "/static/media/devicon.f2d294fd.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.999685f4.js",
-    "static/css/2.1090d99e.chunk.css",
+    "static/js/runtime-main.17489989.js",
+    "static/css/2.998dacbd.chunk.css",
     "static/js/2.4e41f34b.chunk.js",
-    "static/css/main.705130cb.chunk.css",
-    "static/js/main.7bb154d4.chunk.js"
+    "static/css/main.dcbc416b.chunk.css",
+    "static/js/main.87ed51bb.chunk.js"
   ]
 }
