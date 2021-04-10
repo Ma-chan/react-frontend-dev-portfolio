@@ -1,115 +1,231 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "こんにちは",
+      "description": "👋 私は,情報セキュリティ専攻の修士課程2年の松本彩花と申します。 :) ブロックチェーンや情報セキュリティ、Webアプリ開発に興味があります。以下のSkill欄には記載しておりませんが、TOEICは680取得しています。英会話は今勉強中です。 ⭐, 私に興味を持って頂いたら、コンタクトをとってみて下さい(仕事案件のみ受付中) 。ご覧頂きまして、ありがとうございます💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "私について",
+        "projects": "制作物",
+        "skills": "プログラミングスキル",
+        "experience": "今まで"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "今のポートフォリオ(React.js)",
         "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "description": "現在拝見されている私のポートフォリオには、フレームワークにReact.js、画面の実装にCSSとHTML,Javascriptを用いています。ポートフォリオを製作するに際して、簡単な要件定義(要求分析、情報資産の特定、機能要件、使用する言語の選定、ユースケースなど)を行いました。",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/React.png",
+          "images/History.png",
+          "images/Skill.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
+            "class": "devicon-react-plain",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JS"
+          }
+        ]
+      },
+      {
+        "title": "立体キャラクター(Java3D)",
+        "startDate": "2018",
+        "description": "大学3年生時に作成した立体キャラクターです。これは、Java3Dを用いて、立体キャラクターを作成し、両腕をバタフライの様に動かす動作をつけました。",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg"
+        ],
+        
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "ブロックチェーンアプリケーションの提案",
+        "startDate": "2020",
+        "description": "教育向けのブロックチェーンのアプリケーション開発を以前の研究室にて行なっていました。プログラミングの問題をブラウザ上で解き、回答履歴や正答率をブロックチェーンに保管させるためのアプリケーションを以前の研究室にて行なっていました。",
+        "images": [
+          "images/sumomo01.png",
+          "images/sumomo02.png"
+    
+        ],
+        "url": "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=198671&item_no=1",
+        
+        "technologies": [
+          {
+            "name": "nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+          },
+          {
+            "name": "Bootstrap4",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JS"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
+        "title": "チームリーダー経験",
+        "startDate": "2016",
+        "description": "大学2年時に、文化祭でのプログラミング展示活動にてチームリーダーを勤めました。同期3人と後輩3人のチームにてプログラミングの展示活動を行い、私はリーダーとしてチームビルディングから当日のシフト調整までを担いました。展示活動を成功させるため、個々メンバーへのエラー対応や進捗管理を行い、展示活動当日は約50人のお客様にご来場いただきました。",
+        "images": [
+          "https://ma-chan.github.io/ma/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E6%B4%BB%E5%8B%95.JPG",
+          "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
+          
+        ],
+        
+        "technologies": [
+          {
+            "class": "devicon-basic-original",
+            "name": "basic"
+          }
+        ]
+      },
+      {
+        "title": "前のポートフォリオ",
+        "startDate": "2016",
+        "description": "以前私が作成したポートフォリオです、HTMLとCSSで作成しました。静的なページで、デザインも良くないのでお恥ずかしい限りですが、本ページと見比べて成長したと思います。",
+        "images": [
+          "images/Pre.png",
+          "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
+          
+        ],
+        "url": "https://ma-chan.github.io/ma/chan.htm",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3" 
           }
         ]
       }
     ],
+
+
     "experience": [
+  
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "SCIS(暗号と情報セキュリティのシンポジウム)",
+        "title": "論文採択",
+        "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 8/9/10"
+          "Blockchain"
         ],
         "technologies": [
-          "REST API",
           "RxJS",
+          "Django",
+          "PHP",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "DHTMLX Gantt"
+        ]
+      },
+      
+    
+      {
+        "company": "情報セキュリティ専攻",
+        "title": "情報セキュリティ大学院大学在学中...",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Blockchain"
+        ],
+        "technologies": [
+          "セキュリティバイデザイン",
+          "プログラミング",
+          "ハッキング",
+          "Capture the flag",
+          "IoTセキュリティ",
+          "Webセキュリティ",
+          "暗号理論"
+        ]
+      },
+      
+      {
+        "company": "理学研究科",
+        "title": "日本女子大学大学院　中途退学",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Blockchain"
+        ],
+        "technologies": [
+          "機械学習",
+          "Dapp(Distributed Application)",
+          "最適化問題",
+          "競技プログラミング",
+          "PHP",
+          "Python"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "SSS(サハラの夏のシンポジウム)",
+        "title": "論文採択",
+        "years": "01.2014 - 01.2018",
         "mainTech": [
-          "Angular 7/8"
+          "Solidity"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Solidity",
+          "Javascript",
+          "HTML",
+          "CSS",
+          "web3.js",
+          "python"
+        ]
+      },
+      {
+        "company": "理学部出身",
+        "title": "日本女子大学卒業",
+        "years": "01.2014 - 01.2018",
+        "mainTech": [
+          "Mathmatics"
+        ],
+        "technologies": [
+          "数値解析",
+          "統計学",
+          "線形代数",
+          "代数学",
+          "C・C++",
+          "Python",
+          "R",
+          "HTML",
+          "CSS",
+          "Javascript"
         ]
       }
     ]

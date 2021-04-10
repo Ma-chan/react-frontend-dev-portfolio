@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ayaka belong to the institute of information security from Otsuka laboratory.  :) I'm interested in React.js and Vue.js.  What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Ayaka belong to the institute of information security from Otsuka laboratory.  :) I'm interested in Blockchain and Cyber security, and also Web application. I couldn't write it down in the Skill column, but I have TOEIC 680. Recently, I have been improving my English conversation skills. If you are interested in me, please get in touch with me ⭐  Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Products",
@@ -11,12 +11,13 @@
     },
     "projects": [
       {
-        "title": "React",
+        "title": "React.js",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg",
-          "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg"
+          "images/React.png",
+          "images/History.png",
+          "images/Skill.png"
         ],
         "url": "",
         "technologies": [
@@ -29,12 +30,12 @@
             "name": "TypeScript"
           },
           {
-            "class": "devicon-html-plain",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
-            "class": "devicon-css-plain",
-            "name": "CSS"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
           },
           {
             "class": "devicon-javascript-plain",
@@ -43,17 +44,57 @@
         ]
       },
       {
-        "title": "Java",
+        "title": "Java3D",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
           "https://ma-chan.github.io/ma/%E3%81%8B%E3%82%82%E3%81%AE%E3%81%AF%E3%81%97.jpg"
         ],
-        "url": "https://github.com/Ma-chan",
+        
         "technologies": [
           {
             "class": "devicon-java-plain",
             "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Distributed Application Proposal",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/sumomo01.png",
+          "images/sumomo02.png"
+    
+        ],
+        "url": "https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=198671&item_no=1",
+        
+        "technologies": [
+          {
+            "name": "nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "60"
+          },
+          {
+            "name": "Bootstrap4",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JS"
+          },
+          {
+            "class": "devicon-solidity-plain",
+            "name": "Solidity"
           }
         ]
       },
@@ -66,7 +107,7 @@
           "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
           
         ],
-        "url": "https://github.com/Ma-chan",
+        
         "technologies": [
           {
             "class": "devicon-basic-original",
@@ -79,54 +120,33 @@
         "startDate": "2016",
         "description": "When I was in my second year of university, a group of six students held an exhibition of pictures they had drawn using programming. As the leader of the group, I was responsible for everything from team building to shift coordination on the day of the event.",
         "images": [
-          "https://ma-chan.github.io/ma/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E6%B4%BB%E5%8B%95.JPG",
+          "images/Pre.png",
           "https://ma-chan.github.io/ma/%E5%90%91%E6%97%A5%E8%91%B5.JPG"
           
         ],
-        "url": "https://github.com/Ma-chan",
+        "url": "https://ma-chan.github.io/ma/chan.htm",
         "technologies": [
           {
-            "class": "devicon-html-original",
+            "class": "devicon-html5-plain",
             "name": "HTML"
           },
           {
-            "class": "devicon-css-original",
-            "name": "CSS"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3" 
           }
         ]
       }
     ],
 
 
-   
-
-
-
-
     "experience": [
-      {
-        "company": "Hobby",
-        "title": "Front-End Development",
-        "years": "2.2021 - present",
-        "mainTech": [
-          "React 8/9/10"
-        ],
-        "technologies": [
-          "HTML",
-          "CSS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "React.js",
-          "R"
-        ]
-      },
+  
       {
         "company": "SCIS(Simposium of Cryptography and Information Security)",
         "title": "Adoption of paper",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Blockchain"
         ],
         "technologies": [
           "RxJS",
@@ -141,7 +161,7 @@
         "title": "Adoption of paper",
         "years": "01.2014 - 01.2018",
         "mainTech": [
-          "Angular 5/6"
+          "Solidity"
         ],
         "technologies": [
           "RxJS",
@@ -151,49 +171,35 @@
           "DHTMLX Gantt"
         ]
       },
+    
       {
-        "company": "SSS(Summer Symposium in Sasara)",
-        "title": "Adoption of paper",
+        "company": "Cyber Seciruty Master Course",
+        "title": "Institute of Information Security",
         "years": "01.2014 - 01.2018",
         "mainTech": [
-          "Angular 5/6"
+          "Blockchain"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Security by Design",
+          "Programming",
+          "Hacking",
+          "Capture the flag"
         ]
       },
       {
-        "company": "SSS(Summer Symposium in Sasara)",
-        "title": "Adoption of paper",
+        "company": "Department of Science",
+        "title": "Japan Women's University Graduation",
         "years": "01.2014 - 01.2018",
         "mainTech": [
-          "Angular 5/6"
+          "Mathmatics"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      },
-      {
-        "company": "SSS(Summer Symposium in Sasara)",
-        "title": "Adoption of paper",
-        "years": "01.2014 - 01.2018",
-        "mainTech": [
-          "Angular 5/6"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Numerical simulation",
+          "Statistics",
+          "Linear Algebra",
+          "Algebra",
+          "C・C++",
+          "Python"
         ]
       }
     ]
